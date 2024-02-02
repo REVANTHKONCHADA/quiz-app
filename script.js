@@ -2,12 +2,12 @@
 
 const quizData = [
     {
-      question: "Q1: What is the brain of computer system?",
-      option1: "ALU",
-      option2: "CPU",
-      option3: "Memory",
-      option4: "Control Unit",
-      correctAnswer: "ans1",
+      question: "Q1: Who is god of cricket?",
+      option1: "Virat Kohli",
+      option2: "Dhoni",
+      option3: "Rohit",
+      option4: "Sachin",
+      correctAnswer: "ans4",
     },
     {
       question: "Q2: What does HTML stands for?",
@@ -18,12 +18,12 @@ const quizData = [
       correctAnswer: "ans3",
     },
     {
-      question: "Q3: Apart from <b> tag, what other tag makes text bold?",
-      option1: "<fat>",
-      option2: "<strong>",
-      option3: "<black>",
-      option4: "<emp>",
-      correctAnswer: "ans2",
+      question: "Q3: Who is founder of SpaceX",
+      option1: "Elon Musk",
+      option2: "Steve JObs",
+      option3: "Larrry page",
+      option4: "Bill Gates",
+      correctAnswer: "ans1",
     },
     {
       question:
